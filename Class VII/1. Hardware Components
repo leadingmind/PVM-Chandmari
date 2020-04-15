@@ -1,0 +1,91 @@
+1. Fill in the blanks.
+  a) Input
+  b) Joystick
+  c) CPU
+  d) Hard drives
+  
+2. Choose the correct answers.
+  a) ii) SMPS
+  b) ii) Mouse
+  c) iii) Scanner
+  d) i) Graphics Tablet
+  e) iii) Hard Disk
+  
+3. State true or false
+  a) F
+  b) F
+  c) T
+  d) F
+  e) T
+  
+4. Answer the following questions in brief.
+  a)What are the basic units of a computer?
+  Ans: Basic units of a computer are:-
+    1. Input Unit
+    2. Central Processing Unit
+    3. Output Unit
+    4. Storage Unit
+    
+  b)Name any three input units.
+  Ans: Three input units are:-
+    1.Keyboard
+    2.Mouse
+    3.Microphone
+    
+  c)What is a port in computer?
+  Ans: In a computer, port is a place or interface which connects the computer to other devices. 
+       There are internal ports for connecting hard disk drive, CD or DVD drive, and external 
+       ports to connect printers, mouse, modem etc.
+       
+  d)State the full forms of MICR, OMR and OCR.
+  Ans: MICR -> Magnetic Ink Character Reader
+       OMR -> Optical Mark Recognition
+       OCR -> Optical Character Reader
+       
+  e)What are the different types of secondary storage devices?
+  Ans: There are three primary categories for secondary storage devices:- 
+     1.Magnetic storage 
+     2.Optical storage 
+     3.Solid state storage
+     
+5. Answer the following questions in detail.
+  a)List the four major operations performed by a computer.
+  Ans: The four major operations performed by a computer are:-
+     1. it accepts data or instructions as input
+     2. it stores data and instructions
+     3. it processes data as per the instructions
+     4. it gives results inthe form of output.
+     
+  b)Describe the motherboard.
+  Ans: The motherboard is a printed circuit board which holds the essential parts 
+    of the computer and maintains the communication between all parts.
+       Printed circuit boardnis a board made up of a non-conducting material such 
+    as plastic or fiber glass. Electronic components are attached to this board 
+    using a matel to conduct electricity.
+    
+  c)Compare the working procedure of a mouse and a trackball.
+  Ans: An optical mouse has a tiny camera that takes more than a thousand pictures 
+    per second. An optical sensor and a signal processor analyses each picture and 
+    based on the changes, the mouse cursor moves on the screen.
+       The trackball consists of a ball held by a socket. The socket contains sensors 
+       to detect the rotation of the ball. The user rolls the ball to direct the 
+       cursor to the desired place on the screen.
+  d)Explain the working of the CPU.
+  Ans: Every CPU performs performs 3 basic operations:-
+    1. Fetch: In this step CPU reads instruction that is to be operated from a particular address in memory.
+    2. Decode: In this step CPU decodes all the instructions fetched from the memory.
+    3. Execute: In the last step CPU executes the instruction.
+  e)Differentiate between primary memory and secondary memory.
+  Ans: 
+          Primary Memory          |             Secondary memory
+   _______________________________|__________________________________________
+   1. Primary memory devices are  |1. Secondary memory devices are magnetic, 
+      semiconductor memories      |   optical and electronic memories
+   2. Primary memory can be       |2. Secondary memory is always 
+      volatile as well as         |   non-volatile
+      non-volatile.               |
+   3. Primary memory is more      |3. Secondary memory is somewhat slower 
+      effective and interacts     |   in interacting with the microprocessor 
+      more quickly with the       |   than primary memory
+      microprocessor              |
+ ----------------------------------------------------------------------------
