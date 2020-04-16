@@ -22,20 +22,27 @@ Ans: The operating system is stored on hard disk.
   b) State the basic responsibilities of the operating system.
 Ans: The basic responsibilities of the operating system are:
       1) Creating an interface between the hardware and the user
-      2) controlling and managing computer hardware and software resources
+      2) controlling and managing computer hardware and software 
+         resources
       3) recognizing input from the keyboard
       4) controlling all peripheral devices
   c) What is disk management?
-Ans: disk management controls the usage of the drives installed in a computer, such as hard drive, optical disk drive, flash drive etc.
+Ans: disk management controls the usage of the drives installed in 
+     a computer, such as hard drive, optical disk drive, flash drive 
+     etc.
   d) Name two operating systems for mobile devices.
 Ans: two operating systems for mobile devices are:
       1) Android
       2) iOS
   e) How can you add new hardware or software to a computer?
-Ans: To add a new hardware to a computer the device driver of that hardware must be installed in the computer. To add a new software the the software needs to be installed on the computer.
+Ans: To add a new hardware to a computer the device driver of that 
+     hardware must be installed in the computer. To add a new 
+     software the the software needs to be installed on the computer.
 5. Answer the following questions in detail.
   a) What is process management?
-Ans: Process is a program in execution. The operating system assigns the processes given by the user to the processor and controls the order of execution.
+Ans: Process is a program in execution. The operating system assigns 
+     the processes given by the user to the processor and controls 
+     the order of execution.
   b) What are the main functions of an operating system?
 Ans: the main functions of an operating system are:-
       1) Starting the computer
@@ -45,8 +52,15 @@ Ans: the main functions of an operating system are:-
       5) Managing files and folders
       6) Memory management
   c) What is a GUI operating system?
-Ans: A GUI lets us use your mouse to click on icons, buttons and menus and everything is clearly displayed on the screen using a combination of graphics and text. 
+Ans: A GUI lets us use your mouse to click on icons, buttons and 
+     menus and everything is clearly displayed on the screen using 
+     a combination of graphics and text. 
   d) What is the taskbar?
-Ans: the taskbar is a bar at the edge of the display of a graphical user interface that allows quick access to current or favourite applications.
+Ans: the taskbar is a bar at the edge of the display of a graphical 
+     user interface that allows quick access to current or favourite 
+     applications.
   e) Write a short note on real-time operating system.
-Ans: Real time OS responds to input instantly. It is a multitasking OS designed for real time applications. It is designed to handle events as they occur. The real time OS or RTOS is used in robotics, complex animation systems, communication etc.
+Ans: Real time OS responds to input instantly. It is a multitasking 
+     OS designed for real time applications. It is designed to handle 
+     events as they occur. The real time OS or RTOS is used in robotics, 
+     complex animation systems, communication etc.
