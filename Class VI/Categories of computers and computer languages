@@ -1,0 +1,88 @@
+1. Fill in the blanks.
+  a) Ted Hoff
+  b) Microprocessor
+  c) 5th Generation
+  d) Embedded System
+  e) UNIVAC 1 and ENIAC
+  
+2. State true or false.
+  a) F
+  b) F
+  c) T
+  d) F
+  e) T
+  
+3. Choose the correct answer.
+  a) iii) IBM4300
+  b) i) Ted Hoff
+  c) iv) MTSO
+  d) ii) Magnavox Odyssey
+  e) iv) Video Game
+  
+4. Answer the following questions in brief.
+  a) Name two fields of application of Supercomputers.
+Ans: Application of Supercomputers include understanding human speech and 
+  making computer able to think logically like humans.
+
+  b) What are the different types of computers according to their size and working capacity?
+Ans: There are four types of computers according to their size and working 
+  capacity:
+      1) Supercomputers
+      2) Mainframes
+      3) Minicomputers
+      4) Microcomputers
+      
+  c) Write down the full forms of ESN, MIN and SID.
+Ans: ESN -> Electronic Serial Number
+     MIN -> Mobile Identification Number
+     SID -> System Identification Code
+     
+  d) What are the important features of a smartphone?
+Ans: The following are some of the key features of a smartphone:
+      1) Internet connectivity.
+      2) Embedded memory.
+      3) QWERTY keyboard.
+      4) Wifi.
+      
+  e) Name two handheld videogame machines.
+Ans: Two handheld videogame machines are Nintendo Switch and PlayStation Vita.
+5. Answer the following questions in detail.
+  a) State the common features of a mobile phone.
+Ans: The common features of a mobile phone are:
+      1) A Camera
+      2) Battery
+      3) Wifi
+      4) Operating System
+      5) Bluetooth
+      6) GPS
+      
+  b) What do you understand by a Workstation?
+Ans: A workstation is a special computer designed for technical or 
+  scientific applications. These are intended primarily to be used 
+  by one person at a time, they are commonly connected to a local 
+  area network and run multi-user operating systems.
+
+  c) Compare analog, digital and hybrid computers.
+Ans: Analog computers are used to process analog data. Analog data is 
+  the data that is continuous and has infinite variety of values such 
+  as temparature, pressure, speed, weight, voltage and depth.
+     A digital computer, as the name implies, works with digits to 
+  represent numerals, letters and special symbols. Digital computers 
+  process information which is based on the presence or the absence of 
+  an electrical charge. This presence or absence of electrical charge 
+  is represented by numbers 1 and 0.
+     Hybrid computers are a combination of digital and analog computers. 
+  Hybrid computers are used mainly in specialized applications where both 
+  kinds of data need to be processed.
+     
+  d) What are the different translator software?
+Ans: The different translator softwares are:
+      1) Assembler: It converts assembly code into machine code.
+      2) Interpreter: It converts high level language into machine code one line at a time.
+      3) Compiler: It converts a high level language into machine code all at once.
+   
+  e) State three features of an embedded system.
+Ans: Three features of an embedded system:-
+      1) All Embedded Systems are task specific.
+      2) Embedded systems are created to perform the task within a certain time frame.
+      3) They have minimal or no user interface (UI).
