@@ -1,1 +1,68 @@
+1. Fill in the blanks.
+  a) Operating System
+  b) Restore
+  c) Graphical User
+  d) Toolbar
+  e) wildcard
+  
+2. Choose the correct answer.
+  a) iv) operating system
+  b) i) winodws desktop
+  c) iii) psd
+  d) ii) prn
+  e) ii) drive
+  
+3. State true or false.
+  a) T
+  b) F
+  c) T
+  d) F
+  e) T
+  
+4. Answer the following questions in brief.
+  a) Name three file extensions for image files.
+Ans: Three file extensions for image files are png, jpg and gif.
 
+  b) State one function of operating system.
+Ans: Operating system as as an interpreter between the user and 
+applications with the computer Hardware.
+      
+  c) What is the default name of a newly created folder?
+Ans: The default name of a newly created folder is New Folder.
+     
+  d) Name two wildcard characters.
+Ans: Two wildcard characters are asterisk (*) and question mark (?).
+      
+  e) State one difference between a file and a folder.
+Ans: Files are the place where information is stored in the 
+computer where as folder are the area where files are stored.
+
+5. Answer the following questions in detail.
+  a) How can you move a file from one folder to another?
+Ans: To move a file from one folder to another we follow the steps:
+      1) Double click the Computer icon and open the required drive and folder.
+      2) Right click on the file to move. A short menu appears. Click on Cut.
+      3) Go to the folder where you want to move the selected file.
+      4) Right click in the destination folder.
+      5) Click on Paste 
+
+  b) How can you remove a folder permanently?
+Ans: To remove a folder permanently we follow the steps:
+      1) Double click the Computer icon and open the required drive and folder.
+      2) Right click on the folder to delete. A short menu appears. Click on Delete.
+      3) The folder will be moved to Recycle bin. Open the Recycle bin.
+      4) Right click on the folder and click Delete.
+      5) The folder will be permanently deleted.
+      
+  c) What is the role of Windows Explorer?
+Ans: Windows Explorer helps in navigating through the various drives and 
+folders of a computer. It helps in organizing and viewing the contents of 
+the computer.
+     
+  d) Explain the use of asterisk (*) in searching a file?
+Ans: The asterisk (*) can represent one or more characters. Suppose if you 
+are searching for an audio file. But you have forgotten the name of the file 
+and remember only the extension mp3. Then you can search the file using 
+asterisk (*) in place of the base filename. Then the computer will show all 
+files with the extension mp3.
+   
