@@ -1,0 +1,43 @@
+1. Short Answer questions.
+  b) var sub1,sub2,sub3
+  e) A=A+1
+     A=A-1
+  f) A+=15
+     B++
+Application based Questions.
+1. <!DOCTYPE html>
+   <html>
+    <body>
+      <script>
+        alert("This is my first javaScript code")
+      </script>
+    </body>
+   </html>
+2. if(direction=="N"){
+    a="North";
+   }
+   else if(direction=="E"){
+    a="East";
+   }
+   else if(direction=="W"){
+    a="West";
+   }
+   else if(direction=="S"){
+    a="South";
+   }
+   else{
+    a="Enter correct code";
+   }
+   document.write(a)
+3. a = 6
+   b = 14
+4. a = b * 3 / 4 + c / 4 + 8 - b + 5 / 8
+     = 4 * 3 / 4 + 4 / 4 + 8 - 4 + 5 / 8
+     = 12 / 4 + 1 + 8 -4 + 0.625
+     = 3 + 1 + 8 - 4 + 0.625
+     = 8.625
+5. i) False
+   ii) True
+   iii) True
+6. a = (x==100)? "x is 100" : "x is not 100"
+   
