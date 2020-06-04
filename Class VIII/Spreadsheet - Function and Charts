@@ -20,10 +20,15 @@
   a) What do you understand by formula in Excel?
  Ans: A formula is an expression that calculates the value of a cell.
   b) What is relative referencing?
- Ans: When a formula is copied across multiple cells, they change based on the location of the destination cells relative to that of the source cell. This is called relative referencing.
-  c) State the function and syntax to find the sum of three non adjacent cells.
- Ans: The function required to find the sum of three non adjacent cells is SUM.
-      The syntax is   =SUM(n1,n2,n3) where n1, n2 and n3 are cell references of the non adjacent cells.
+ Ans: When a formula is copied across multiple cells, they change 
+ based on the location of the destination cells relative to that of 
+ the source cell. This is called relative referencing.
+  c) State the function and syntax to find the sum of three non adjacent 
+  cells.
+ Ans: The function required to find the sum of three non adjacent cells 
+ is SUM.
+      The syntax is   =SUM(n1,n2,n3) where n1, n2 and n3 are cell references 
+      of the non adjacent cells.
   d) State the names of any three chart types in Excel.
  Ans: Three chart types in Excel are:
         i) Column chart
@@ -35,22 +40,35 @@
         ii) By numbers
 5. Answer the following questions in detail.
   a) Explain mixed referencing with an example.
- Ans: Sometimes we need a combination of relative and absolute reference. It is referred to as mixed reference.
-      Let us assume we have a cell D$ which consists of relative reference B4 and absolute reference $C$4. Now we copy D4 and paste it into D5. The formula pasted in D5 also consists of both relative and absolute referencing. Due to relative referencing B4 has changed to B5, but $C$4 remains constant.
+ Ans: Sometimes we need a combination of relative and absolute reference. 
+ It is referred to as mixed reference.
+      Let us assume we have a cell D$ which consists of relative reference 
+      B4 and absolute reference $C$4. Now we copy D4 and paste it into D5. 
+      The formula pasted in D5 also consists of both relative and absolute 
+      referencing. Due to relative referencing B4 has changed to B5, but 
+      $C$4 remains constant.
   b) Explain absolute referencing with an example.
- Ans: Unlike relative reference, absolute reference does not change the content of a cell when copied or filled in another cell. They are used to keep a row and/or column constant. 
-      Let us consider the cell F4 contains =C4+D4+E4. To change it to absolute reference it will change to =$C$4+$D$4+$E$4. Now we copy F4 and paste in F5. F5 will be filled with the same value as in F4. 
+ Ans: Unlike relative reference, absolute reference does not change the 
+ content of a cell when copied or filled in another cell. They are used 
+ to keep a row and/or column constant. 
+      Let us consider the cell F4 contains =C4+D4+E4. To change it to 
+      absolute reference it will change to =$C$4+$D$4+$E$4. Now we copy 
+      F4 and paste in F5. F5 will be filled with the same value as in F4. 
   c) Compare the working of EXACT and PROPER.
- Ans: EXACT compares two text string and returns TRUE if they are exactly the same, otherwise returns FALSE.
+ Ans: EXACT compares two text string and returns TRUE if they are exactly 
+ the same, otherwise returns FALSE.
       Syntax:  EXACT(text1,text2)
-      Whereas, PROPER capitalizes the first letter in a text string and converts all the other letters to lower-case letters.
+      Whereas, PROPER capitalizes the first letter in a text string and 
+      converts all the other letters to lower-case letters.
       Syntax:  PROPER(text)
   d) NOT REQUIRED
   e) State the steps to sort a column in ascending order. 
  Ans: To sort a column in ascending order we follow the following steps:
       i) Select the columns to be sorted.
-      ii) Click on Sort & Filter toolbar in the Editing group under the Home tab.
+      ii) Click on Sort & Filter toolbar in the Editing group under the 
+      Home tab.
       iii) A drop-down menu appears. Click on Sort Smallest to Largest.
-      iv) In the sort warning dialog box, click on Expand the selection and then click on Sort.
+      iv) In the sort warning dialog box, click on Expand the selection 
+      and then click on Sort.
       v) the entire column will be sorted.
       
