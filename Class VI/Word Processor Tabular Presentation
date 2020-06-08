@@ -1,4 +1,74 @@
-1.
-2.
-3.
-4.
+1. Fill in the blanks.
+  a) SmartArt
+  b) quick table
+  c) bullets
+  d) grid lines
+  e) linking and embedding
+2. Choose the correct answer.
+  a) iii) insert
+  b) iii) SmartArt
+  c) i) Drawing
+  d) iii) SmartArt
+  e) iv) All of these (Wrongly written in book as None of these. Students are requested to correct 'None' to 'All')
+3. State true or false
+  a) T
+  b) F
+  c) T
+  d) F
+  e) T
+4. Answer the following questions in brief.
+  a) Can we change the row height in a table? If yes, how?
+ Ans: Yes, we can change the row height in a table.
+    To change the row height of a table we first select the whole table and click layout tab. There under cell size group we can set the value for height which will set row height.
+  b) Write the steps to merge cells in a table.
+ Ans: To merge cells in a table we follow the following steps:
+        i) select the adjoining cells to be merged.
+        ii) go to layout tab.
+        iii) under under Merge group click the Merge Cells button.
+        iv) the cells will be merged.
+  c) How do you split cells in a table?
+ Ans: To split cells in a table we follow the following steps:
+        i) select the  cell to be split.
+        ii) go to layout tab.
+        iii) under under Merge group click the Split Cells button.
+        iv) Split cells dialog box will appear.
+        v) provide the number of rows and columns and click ok.
+        vi) the cel will be split.
+  d) How can you see the cell boundaries on a table if the cells have no borders?
+ Ans: We can see the cell boundaries of a table if the cells have no borders by going to layout tab and clicking View Gridlines under Table group.
+  e) Write the steps to delete a column from the table.
+ Ans: To delete a column from the table we follow the following steps:
+        i) select the column to be deleted.
+        ii) go to layout tab.
+        iii) under under Rows & Columns group click the Delete button. A drop down menu appears.
+        iv) Select Delete columns.
+        v) the column will be deleted. 
+5. Answer the following questions in detail.
+  a) Explain the usage of a table in MS Word.
+ Ans: A table helps to present data in row and column format. It is good and simple way to represent both text and numerical data.
+  b) Write the steps to insert a row in an existing table.
+ Ans: To insert a row in an existing table we follow the following steps:
+        i) select the row below which you want to insert another row.
+        ii) go to layout tab.
+        iii) under under Rows & Columns group click the Insert Below button.
+        iv) the row will be added. 
+  c) Write the steps to insert a table with 10 rows and 5 columns using the Table menu.
+ Ans: To insert a table with 10 rows and 5 columns using the Table menu we follow the following steps:
+        i) move the cursor to the place where you want to insert a table.
+        ii) go to insert tab.
+        iii) under under Tables group click Table button. A drop down menu appears.
+        iv) click Insert table.
+        v) Insert table dialog box appears. set the values for row and column as 10 and 5.
+        vi) click ok. The table is created.
+  d) Write the steps to remove the borders of a table.
+ Ans: To remove the borders of a table we follow the following steps:
+        i) select the table from which you want to remove border.
+        ii) go to Design tab.
+        iii) under under Table Styles group click the Border Drop-down arrow.
+        iv) select No Border.
+        v) The border is removed.
+  e) Write the steps to align text in a table.
+ Ans: To align text in a table we follow the following steps:
+        i) select all the cells of the table.
+        ii) go to Home tab.
+        iii) under under Paragraph group choose the alignment type.
