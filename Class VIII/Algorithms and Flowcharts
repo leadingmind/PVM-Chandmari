@@ -1,1 +1,70 @@
-
+1. Fill in the blanks.
+  a) Programming
+  b) analyse
+  c) computational
+  d) selection, iteration
+  e) algorism
+  
+2. Choose the correct answer.
+  a) i) step by step problem-solvingg process
+  b) ii) program
+  c) i) algorithm
+  d) iv) all of these
+  e) iii) diagrammatic
+  
+3. State true or false.
+  a) T
+  b) F
+  c) T
+  d) T
+  e) T
+  
+4. Answer the following questions in brief.
+  a) What is a programmer's general problem-solving technique?
+ Ans: Programmers persue the following problem-solving techniques:
+        1) Analyze the problem
+        2) Outline the problem requirement
+        3) Design the steps to solve the problem
+  b) What is an algorithm?
+ Ans: An Algorithm is a well defined computational procedure 
+ consisting of a set of instructions that takes some value or a 
+ set of values as input and produces some value or a set of values 
+ as output.
+  c) What is a flowchart?
+ Ans: Flowchart is a diagrammatic representation of an algorithm. 
+ In a flowchart, the various steps of the algorithm are shown in 
+ different kinds of boxes that are connected by arrows. The arrows 
+ show the flow of the program control.
+ 
+5. Answer the following questions in detail.
+  a) What do you mean by a selection statement or construct?
+ Ans: A selection statement allows programmers to ask questions and 
+ then, based on the result, perform different actions. Selection 
+ constructscan be nested, that is, the result of one question helps 
+ to decide whether to ask the next question.
+  b) How do you analyse a problem?
+ Ans: To analyse a problem:
+        1) Thoroughly understand the problem
+        2) Understand the problem requirement
+        3) Does the program require input from the user?
+        4) Does the program use the data to perform any computation?
+        5) What is the output?
+        6) If the problem is complex, divide it into smaller parts 
+        or sub-problems
+        7) Analyze each sub-problems.
+  c) What are the different types of instructions found in an algorithm?
+ Ans: An algorithm consists instructions for input, iteration,selection 
+ and output.
+        1) Input statement is used to obtain data from the user.
+        2) Selection statement allows programmers to ask questions and 
+        then based on the result perform different actions.
+        3) Iteration statements are used when the same instructions have 
+        to be repeated several times.
+        4) Output statements display the computed output. 
+  d) How is a program related to an algorithm?
+ Ans: A computer program is a specific sequence of instructions in a 
+ specific programming language. A program may contain the implementation 
+ of many algorithms. An algorithm is a self-contained step-by-step set of 
+ operations to be performed to solve a specific problem or a class of problems. 
+ Algorithms can not be executed by an computer.
+ 
