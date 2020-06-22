@@ -18,23 +18,54 @@
   e) T
 4. Answer the following questions in brief.
   a) Name any three common types of malware.
- Ans: 
+ Ans: Three common types of malware are worms, trojans and bots.
   b) What do computer viruses do?
- Ans: 
+ Ans: A computer virus is a program, which disturbs other programs to 
+ work in their designated way.
   c) State one difference and one similarity between viruses and worms.
- Ans: 
+ Ans: Computer worms are similar to viruses in the way they replicate 
+ functional copies of themselves.
+      In contrast to viruses, which require the spread of an infected 
+      host file, worms are stand-alone software and do not need a host 
+      program or human help to spread.
   d) How does Trojan spread?
- Ans: 
+ Ans: Trojans are a piece of software that looks legitimate and users 
+ are tricked intoopening and executing it ontheir system. After it is 
+ activated, it can achieve any number of attacks on the host.
   e) What is spyware?
- Ans: 
+ Ans: Spyware is a software that aids in gathering information about a 
+ person or organization without their knowledge.
 5. Answer the following questions in detail.
   a) How does a virus spread?
- Ans: 
+ Ans: A computer virus is often loaded onto your computer without your 
+ knowledge and runs against your wishes. When it is executed, it replicates 
+ by duplicating itself into other programs, data files or folders or hard 
+ drives.
   b) How can you protect your PC from worms?
- Ans: 
+ Ans: To protect our PC from worms we should install an anti-virus program 
+ and scan our system periodically. This helps in keeping our system clean 
+ from worms.
   c) What are exploits and backdoors?
- Ans: 
+ Ans: An exploit is a software , a command or a methodology, that attacks a 
+ particular security weakness.
+      Backdoor is an undocumented way of accessing a system, by passing the 
+      normal authentication mechanisms. Some backdoors are placed in the 
+      software by the original programmer and others may be placed on systems 
+      through a virus or worm.
   d) What does spyware do?
- Ans: 
+ Ans: Spyware is a software that aids in gathering information about a person 
+ or organization without their knowledge. It may also send the gathered 
+ information to others without the person's consent, or may assert control 
+ over a computer without the person's knowledge.
   e) How can you protect your computer against virus and worm attacks?
- Ans: 
+ Ans: Following measures can protect our computer against virus and worm attacks:
+        i) Install an antivirus program.
+        ii) Install an anti spyware program.
+        iii) Always keep the anti-virus/anti-spyware programs updated.
+        iv) Run scans occasionally.
+        v) Enable a firewall.
+        vi) Be careful with USB drives used in public computers.
+        vii) Keep backup of important information.
+        viii) Caution while browsing online.
+        ix) Scan downloaded files.
+        x) Be careful while dealing with e-mails.
