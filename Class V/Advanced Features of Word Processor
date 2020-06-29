@@ -1,1 +1,61 @@
-
+1. Fill i the blanks.
+  a) word processing
+  b) letters, articles
+  c) Footer, Header
+  d) Shading
+  e) Find, Replace
+  f) Portrait, Landscape
+  
+2. State true or false.
+  a) T
+  b) T
+  c) F
+  d) T
+  e) F
+  
+3. Choose the correct answer.
+  a) i) A4
+  b) iii) Page layout
+  c) iii) Styles
+  d) iii) Hanging indent
+  e) i) 0.5 inches
+  
+4. Answer the following questions.
+  a) Write the steps to remove the paragraph borders and shading.
+ Ans: To remove a paragraph border:
+        i) Select the paragraph
+        ii) Click the arrow next to the border button and click No Border.
+      To remove shading:
+        i) Select the paragraph
+        ii) Launch the border and shading dialog box
+        iii) Click shading tab and click clear in the style box.
+        
+  b) Name the different groups of the Drawing tools Format tab.
+ Ans: Different groups of the drawing tools format tab are Insert shapes, 
+ Shape, Styles, Wordart Styles, Text, Arrange and Size.
+  c) Differentiate between superscript and subscript? In which group and 
+  tab are these options present?
+ Ans:
+    ------------------------------|-----------------------------------
+              SUBSCRIPT           |            SUPERSCRIPT
+    ------------------------------|-----------------------------------
+    i) It appears slightly lower  | i) It appears slightly above
+    ii) It is used in chemical    | ii) It is used in mathematical 
+       formulas                   |   equations 
+    ------------------------------------------------------------------
+    These options are found in Font group on the Home tab.
+    
+  d) State the differences between indents and margins.
+ Ans: 
+    ------------------------------|-----------------------------------
+              INDENT              |              MARGIN
+    ------------------------------|-----------------------------------
+    i) Indent is the distance     | i) Margin is the blank space 
+      between the margin and the  |  between the edge of the paper 
+      text                        |  and text
+    ii) There are three kinds of  | ii) There are four kinds of 
+       indents                    |  margins 
+    ------------------------------------------------------------------
+    
+  e) How can we format the text that is added to a shape?
+ Ans: By using the Drawing tools Format tab we can format the text in a shape.
