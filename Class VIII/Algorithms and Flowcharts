@@ -40,7 +40,7 @@
   a) What do you mean by a selection statement or construct?
  Ans: A selection statement allows programmers to ask questions and 
  then, based on the result, perform different actions. Selection 
- constructscan be nested, that is, the result of one question helps 
+ constructs can be nested, that is, the result of one question helps 
  to decide whether to ask the next question.
   b) How do you analyse a problem?
  Ans: To analyse a problem:
