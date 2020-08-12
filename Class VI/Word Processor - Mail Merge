@@ -1,0 +1,54 @@
+1. Fill in the blanks.
+  a) Mail merge
+  b) Data file
+  c) Mailings tab
+2. Choose the correct answer.
+  a) iv) Type new list
+  b) iii) MS access database
+  c) iv) preview results
+3. State true or false.
+  a) T
+  b) F
+  c) T
+4. Answer the following questions in brief.
+  a) What is mailmerge?
+ Ans: The Mail Merge feature in MS word helps us to prepare many copies of a 
+ letter addressed to different persons with different addresses as well as 
+ including other dissimilar information.
+  b) Name the components of mailmerge.
+ Ans: There are two components of mail merge:
+        i) The Document
+        ii) Data file
+  c) How do you start the procedure of mail merge?
+ Ans: To start the procedure for mail merge :
+        i) click on start mail merge under Mailings tab. click step by step 
+        mail merge wizard.
+        ii) from there follow the instructions and create the document and 
+        the recipients list.
+5. Answer the following questions in detail.
+  a) Write the steps for preparing the list of recipients of a letter using 
+  wizard.
+ Ans: The steps for preparing the list of recipients of a letter using wizard 
+ are:
+        i) Click on type a new list and Create to create the list of the 
+        recipients.
+        ii) A dialog box New Address List appears. fill up the information 
+        about the recipients.
+        iii) Click Customizing Columns to add a new column.
+        iv) after entering all information click ok. the save address list 
+        dialog box will appear. type a name and save.
+        v) the list of recip[ients will be shown in Mail Merge Recipients 
+        dialog box.
+  b) Write the steps for adding the details of recipients in the letter.
+ Ans: The steps for adding the details of recipients in the letter are:
+        i) Place the cursor where you wish to add data. click on More items 
+        in Write your letter pane. Insert Merge Field dialog box appears.
+        ii) Click on the appropriate field name and click on Insert. 
+        iii) After inserting all fields click on Next:Preview your letters.
+  c) How do you print the letters for all recipients.
+ Ans: To print the letters for all recipients:
+        i) Click on Print in the Mail merge pane. Merge to printer dialog box 
+        appears.
+        ii) Choose All to print all letters.
+        
+        
